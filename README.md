@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Nama saya Adi Mulyana, saya seorang Mahasiswa Teknik Komputer</p>
+<p align="left">Nama saya Adi Mulyana, saya seorang Mahasiswa Program Studi Teknik Komputer</p>
 
 ###
 
