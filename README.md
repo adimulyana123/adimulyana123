@@ -16,7 +16,7 @@
 
 <p align="left">✨ Belajar Coding sejak 2022.
 <br>📚 saya belajar di bidang Web Application dan Internet of Things (IoT)
-<br>🎯 Goals: Web App Development.<br>🎲 Fakta Random: Suka dunia balap</p>
+<br>🎯 Goals: Web App Development, Ethical Hacking. <br>🎲 Fakta Random: Suka dunia balap</p>
 
 ###
 
